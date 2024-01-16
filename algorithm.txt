@@ -1,3 +1,4 @@
+My awesome slide extractor algorithm
 1. Read in PowerPoint filename
 2. Open the PowerPoint file
 3. Extract each slide and report  the content
